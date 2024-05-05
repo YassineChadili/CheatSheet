@@ -24,6 +24,8 @@ Voorbeelden:
 
 ![image](https://github.com/YassineChadili/CheatSheet/assets/93526956/9c64dcba-cd0c-4cda-b1e0-7521e1c7ad31)
 
+![image](https://github.com/YassineChadili/CheatSheet/assets/93526956/22203d4c-c545-4e58-bc31-f45b255403e6)
+
 ![image](https://github.com/YassineChadili/CheatSheet/assets/93526956/2c6705ab-52c2-4046-bcfa-cf362df8e998)
 
 Userstories:
