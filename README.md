@@ -66,25 +66,8 @@ Vragen moeten meerdere mogelijke antwoorden kunnen hebben.
 De gebruiker moet in staat zijn om verschillende vraagtypen te maken, zoals multiple choice, open vragen, etc.
 
 DoD:
-Functionele vereisten:
-Alle code is geschreven en getest volgens de specificaties van de user story.
-Alle unit tests zijn geschreven en geslaagd.
-De user story voldoet aan de acceptatiecriteria zoals gespecificeerd door de product owner.
-Niet-functionele vereisten:
-De code voldoet aan de vastgestelde prestatie- en schaalbaarheidsnormen.
-De code voldoet aan de beveiligingsvereisten zoals gespecificeerd door de beveiligingsrichtlijnen van het project.
-Eventuele compatibiliteitsvereisten met andere systemen of platforms zijn voldaan.
-Kwaliteitsnormen:
-Code is grondig gereviewd en voldoet aan de vastgestelde codeerstandaarden.
-Alle bekende bugs en fouten zijn opgelost en geverifieerd.
-Er is voldoende documentatie geschreven om het begrip en het onderhoud van de code te vergemakkelijken.
-Testcriteria:
-Alle geautomatiseerde tests zijn uitgevoerd en geslaagd.
-Handmatige tests zijn uitgevoerd om de functionaliteit te verifiëren en te valideren.
-Regressietests zijn uitgevoerd om ervoor te zorgen dat nieuwe wijzigingen geen negatieve invloed hebben op bestaande functionaliteit.
-Acceptatiecriteria:
-De product owner heeft de user story goedgekeurd na het bekijken van de implementatie.
-Eventuele afhankelijkheden of integraties met andere PBIs zijn afgerond en getest.
+![image](https://github.com/YassineChadili/CheatSheet/assets/93526956/580d1483-a45b-47b8-8159-1a0a65426f64)
+
 
 
 
