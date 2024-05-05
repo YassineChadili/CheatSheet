@@ -36,8 +36,5 @@ Userstories:
 
 DoD:
 ![image](https://github.com/YassineChadili/CheatSheet/assets/93526956/580d1483-a45b-47b8-8159-1a0a65426f64)
-
-
-
-
+![image](https://github.com/YassineChadili/CheatSheet/assets/93526956/24bd8dcf-03e4-466b-ab21-92021af8069e)
 
