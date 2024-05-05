@@ -28,6 +28,8 @@ Voorbeelden:
 
 ![image](https://github.com/YassineChadili/CheatSheet/assets/93526956/2c6705ab-52c2-4046-bcfa-cf362df8e998)
 
+![Untitled (7)](https://github.com/YassineChadili/CheatSheet/assets/93526956/d7019dab-947e-4e1b-bdf6-e7b5b95618d4)
+
 Userstories:
 ![image](https://github.com/YassineChadili/CheatSheet/assets/93526956/d3347e8b-32e3-4e94-9346-478c09a70d81)
 
