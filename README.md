@@ -19,3 +19,6 @@ Tests = Alle acceptatiecriteria moet terug komen. Technishe tests van edges. Uit
 Retro = Bespreken wat goed en slecht ging en hoe kan het beter. Je moet meer de diepte in.
 Presentatie/oplevering = Niet te veel bezig zijn met je laptop maar echt aan de persoon. Niet te veel op de foutmelding gaan. Presenteer het opgeleverde werk.
 Je moet later ook code vertellen ook van andere. Ook vertellen stel als je meer tijd had.
+
+![image](https://github.com/YassineChadili/CheatSheet/assets/93526956/9c64dcba-cd0c-4cda-b1e0-7521e1c7ad31)
+
