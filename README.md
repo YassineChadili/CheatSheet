@@ -29,41 +29,8 @@ Voorbeelden:
 ![image](https://github.com/YassineChadili/CheatSheet/assets/93526956/2c6705ab-52c2-4046-bcfa-cf362df8e998)
 
 Userstories:
-Als gebruiker wil ik een overzicht hebben van alle vragen en antwoorden van de quiz, zodat ik een toets kan open zetten/exporteren.
-Acceptatiecriteria:
-De applicatie moet een functie bieden om alle vragen en bijbehorende antwoorden weer te geven.
-Het overzicht moet gemakkelijk te raadplegen en te exporteren zijn voor het samenstellen van een toets.
+![image](https://github.com/YassineChadili/CheatSheet/assets/93526956/d3347e8b-32e3-4e94-9346-478c09a70d81)
 
-Als gebruiker wil ik vragen/antwoorden kunnen toevoegen aan de applicatie, zodat ik een database aan vragen/antwoorden heb.
-Acceptatiecriteria:
-De gebruiker moet nieuwe vragen en antwoorden kunnen toevoegen via een invoerformulier.
-In de database moeten de nieuwe vragen en antwoorden correct worden opgeslagen en gekoppeld.
-
-Als gebruiker wil ik vragen/antwoorden kunnen bewerken, zodat ik eventueel fouten kan verbeteren.
-Acceptatiecriteria:
-Gebruikers moeten bestaande vragen en antwoorden kunnen bewerken.
-De bewerkingsfunctionaliteit moet intuïtief zijn en wijzigingen moeten correct worden opgeslagen in de database.
-
-Als gebruiker wil ik vragen/antwoorden kunnen verwijderen, zodat ik de applicatie kan opschonen.
-Acceptatiecriteria:
-De applicatie moet een optie bieden om vragen en antwoorden te verwijderen.
-Verwijderde vragen en antwoorden moeten permanent uit de database worden verwijderd.
-
-
-Als gebruiker wil ik dat iedere vraag een tag heeft, zodat ik gemakkelijk zie bij welk onderwerp de vraag hoort en eventueel kan filteren.
-Acceptatiecriteria:
-Bij het toevoegen van een nieuwe vraag moet de gebruiker een tag kunnen selecteren die het onderwerp van de vraag weergeeft.
-Het moet mogelijk zijn om vragen te filteren op basis van deze tags.
-
-Als gebruiker wil ik met de vragen en antwoorden een toets opstellen, zodat ik die kan exporteren.
-Acceptatiecriteria:
-De gebruiker moet de mogelijkheid hebben om vragen te selecteren en ze samen te voegen tot een toets.
-De samengestelde toets moet kunnen worden geëxporteerd in een geschikt formaat.
-
-Als gebruiker wil ik dat vragen gekoppeld zijn aan meerdere antwoorden, zodat ik diverse vraagtypen kan gebruiken in mijn toetsen.
-Acceptatiecriteria:
-Vragen moeten meerdere mogelijke antwoorden kunnen hebben.
-De gebruiker moet in staat zijn om verschillende vraagtypen te maken, zoals multiple choice, open vragen, etc.
 
 DoD:
 ![image](https://github.com/YassineChadili/CheatSheet/assets/93526956/580d1483-a45b-47b8-8159-1a0a65426f64)
